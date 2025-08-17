@@ -16,7 +16,7 @@ The objective of this task is to deploy a simple static HTML website using **Git
 5. GitHub generated a live link for the website.
 
 ## 🌐 Live Website
-[Click Here to View](https://your-username.github.io/your-repo-name/)
+[Click Here to View](https://patelajay01.github.io/git_live_6/)
 
 ## 🎨 Customization
 - Added basic **CSS** styling for better look and feel.
@@ -31,3 +31,4 @@ The objective of this task is to deploy a simple static HTML website using **Git
 ## ✅ Deliverables
 - **Live Website Link**
 - **GitHub Repository**
+
